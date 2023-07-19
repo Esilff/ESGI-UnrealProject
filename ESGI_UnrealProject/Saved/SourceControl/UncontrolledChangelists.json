@@ -19,11 +19,14 @@
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Mesh/Arissa_SPEC_specular.uasset",
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/PlayerBP.uasset",
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/Sequences/Neutral_Idle.uasset",
-				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/NewBlendSpace.uasset",
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/DefaultBlendspace.uasset",
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/DefaultBlueprint.uasset",
 				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/Sequences/Slow_Run.uasset",
-				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/DefaultGamemode.uasset"
+				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/DefaultGamemode.uasset",
+				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/TerrainPrefab/DefaultTerrain.uasset",
+				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/TerrainPrefab/Terrain.uasset",
+				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/TerrainPrefab/TerrainSpawner.uasset",
+				"C:/Users/Esilff/Documents/Git/ESGI-UnrealProject/ESGI_UnrealProject/Content/Assets/Animations/NewBlendSpace.uasset"
 			]
 		}
 	]
